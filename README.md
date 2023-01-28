@@ -55,9 +55,7 @@ Attach the components first. Use the tape to experiment with where you want to p
 
 ### Wiring Diagram
 
-![circuit sculpture wiring diagram](images/sculpture-circuit-diagram.png)
->**Note**
->The temperature sensor and OLED display pictured in the diagram don't look like exactly like the actual components, don't let that throw you.
+![circuit sculpture wiring diagram](images/wiring-diagram-3.png)
 
 Since we are powering this device via the VIN pin, you need to provide a bit more than 5 volts. I used a 9V wall adapter, which works great. Just snip off whatever connector is on the end, and strip 4-5mm of insulation off the end of each wire. Tin it with a little bit of solder, and you should easily be able to insert them into the arduino pins. Just make sure you use a multimeter to verify which wire is Positive and which is Ground!
 
@@ -68,7 +66,7 @@ Brass rod pairs nicely with walnut, and I had a bunch left over from a larger pr
 
 If your looking for something else, I would recommend basically any kind of oil-based finish. This piece is really not going to get any kind of wear & tear, and oil finishes look better than finishes that are designed more for protection. Shellac would also work nicely.
 
-**REMEMBER:** You need to finish the wood BEFORE attching the electronics!
+_**REMEMBER:** You need to finish the wood BEFORE attaching the electronics!_
 
 ![photo of front of circuit sculpture](images/circuit-sculpture-front-4.webp)
 
