@@ -47,7 +47,7 @@ Brass rods have a few things going for them that make them good for this:
 ![photo of front of back of circuit sculpture](images/circuit-sculpture-back.webp)
 
 > **Note**
-> I chose to use regular silicone-insulated wire for the two I2C wires on the OLED, while everything else is brass rods. This was for purely asthetic reasons - I wanted some variety. You don't need to do the same.
+> I chose to use regular silicone-insulated wire for the two I2C wires on the OLED, while everything else is brass rods. This was purely for aesthetic reasons - I wanted some variety. You don't need to do the same.
 
 Attaching the components to the wood is done with "nano tape". Nano tape is - from what I can tell - a real product that functions differently from regular tape. But it doesn't matter. If you search Amazon for nano tape, there are a million knock-offs that are basically just heavy-duty double-sided tape, and that's what we need. It works extremely well for this type of application.
 
